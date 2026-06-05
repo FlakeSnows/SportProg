@@ -3,7 +3,7 @@
   <component name="settings.Project">
     <option name="fileGenerationRoot">
       <map>
-        <entry key="Codeforces" value="$groupName" />
+        <entry key="Codeforces" value="strings" />
       </map>
     </option>
   </component>
